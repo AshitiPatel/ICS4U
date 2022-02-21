@@ -1,0 +1,7 @@
+6
+Tony Campos 25 m
+Darth Vader 50 m
+Lea Skywalker 30 f
+Han Solo 30 m
+R2D2 Droid 150 x
+Ray Skywalker 17 f
